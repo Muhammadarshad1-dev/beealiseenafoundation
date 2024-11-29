@@ -189,13 +189,13 @@ body {
   background-color: #49e3bf;
   border-color: #49e3bf; }
   .btn-success:hover {
-    background-color: #49e3bf !important;
-    border-color: #49e3bf !important; }
+    background-color: #001f4e !important;
+    border-color: #001f4e !important; }
   .btn-success:active {
-    background-color: #49e3bf !important;
-    border-color: #49e3bf !important; }
+    background-color: #001f4e !important;
+    border-color: #001f4e !important; }
   .btn-success:focus {
-    background-color: #49e3bf !important;
+    background-color: #001f4e !important;
     border-color: #49e3bf !important;
     box-shadow: none !important; }
 
