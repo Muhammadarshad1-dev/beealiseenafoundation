@@ -292,7 +292,7 @@ header {
         margin-left: 5px; }
   header .header-bottom {
     padding: 6px;
-    background-color: #49e3bf;}
+    background-color: #001f4e;}
     @media screen and (max-width: 991px) {
       header .header-bottom {
         padding: 0px; } }
@@ -631,7 +631,7 @@ header {
 .footer {
   padding: 50px;
   padding-bottom: 50px;
-  background-color: #49e3bf;
+  background-color: #001f4e;
   color: #FFF; }
 
 @media screen and (max-width: 940px) {
@@ -681,7 +681,7 @@ header {
 
 .copy {
   padding: 20px;
-  background: #23cba3;
+  background: #001f4e;
   color: #FFF; }
 
 .copy a {
