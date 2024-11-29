@@ -674,7 +674,7 @@ header {
   font-family: "mouse-300", Arial, Helvetica, sans-serif; }
 
     .img-fluid {
-      max-width: 100%;
+      max-width: 150%;
       height: auto;
       margin-top: 10px;
   }
