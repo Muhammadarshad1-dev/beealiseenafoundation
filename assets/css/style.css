@@ -559,6 +559,11 @@ header {
   .mission-vision .mv-det {
     margin: auto; }
 
+
+  .no-margin{
+    margin: 25px;
+  }
+
 /* ===================================== Charity Number CSS ================================== */
 .doctor-message {
   background-image: url("../images/slider/slider-2.jpg");
