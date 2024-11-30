@@ -186,8 +186,8 @@ body {
       font-weight: 600; }
 
 .btn-success {
-  background-color: #49e3bf;
-  border-color: #49e3bf; }
+  background-color: #001f4e;
+  border-color: #001f4e; }
   .btn-success:hover {
     background-color: #001f4e !important;
     border-color: #001f4e !important; }
@@ -264,7 +264,7 @@ header {
       font-size: .9rem; }
       header .header-top .col-det .ulleft li i {
         margin-right: 5px;
-        color: #bfbfbf; }
+        color: #001f4e; }
       header .header-top .col-det .ulleft li span {
         margin-left: 15px; }
     header .header-top .col-det .ulright {
@@ -277,7 +277,7 @@ header {
         font-weight: 600; }
         header .header-top .col-det .ulright li i {
           margin-right: 5px;
-          color: #8c8a8a; }
+          color: #001f4e; }
         header .header-top .col-det .ulright li small {
           color: #8c8a8a;
           font-weight: 600; }
